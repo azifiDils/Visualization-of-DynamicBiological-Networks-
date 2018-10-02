@@ -1,8 +1,11 @@
 # Visualization-of-DynamicBiological-Networks-
 Data and code for the DILS-Publication: construction and Visualization of DynamicBiological Networks: Benchmarking the Neo4JGraph Database
 
-The input is provided as files in comma separated values (CSV) format.
+Two data sets were analyzed
+1) BAsed on very small subset of data from FANTOM 
+2) Based on cardiac myocyte data from FANTOM 
 
+The input is provided as files in comma separated values (CSV) format. 
 The following files are included per dataset:
 1) genenames: file with all distinct gene names
 2) enhids: file with all distinct enhancer identfiers
