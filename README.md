@@ -2,7 +2,7 @@
 Data and code for the DILS-Publication: construction and Visualization of DynamicBiological Networks: Benchmarking the Neo4JGraph Database
 
 Two data sets were analyzed
-1) BAsed on very small subset of data from FANTOM 
+1) Based on very small subset of data from FANTOM 
 2) Based on cardiac myocyte data from FANTOM 
 
 The input is provided as files in comma separated values (CSV) format. 
